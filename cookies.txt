@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.10minuteschool.com	TRUE	/	FALSE	1999999999	__cfduid	dff9754cd5eefb26db826cc9aadd425511585372821
+10minuteschool.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
